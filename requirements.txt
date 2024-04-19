@@ -1,4 +1,5 @@
-pyrogram==1.4.16
+Pyrogram==2.0.106
+dnspython==2.3.0
 tgcrypto
 requests
 pyromod==1.5
